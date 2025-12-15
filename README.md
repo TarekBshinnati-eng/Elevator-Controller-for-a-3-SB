@@ -164,7 +164,7 @@ This project was developed as part of the EECE 320 course curriculum at the Amer
 
 ## Authors
 
-Tarek Bshinnati and Soheil Haroun
+Tarek Bshinnati and Soheil Haroun, under the guidance of Professor Mazen Saghir
 
 ---
 
